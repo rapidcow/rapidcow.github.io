@@ -21,8 +21,8 @@ if only i could figure out how web frameworks work...
 
 *   my own, less math-technical explanation of
     [Swapity Swapity Swap][usaco-1014] and [Dance Mooves][usaco-1086]
-*   some of the really tough USACO silver problems (probably will
-    have to wait for i *actually* pass silver TAT)
+*   just competitive programming in general (i suck though go to
+    someone else's website please)
 *   notes about AMC and math in general idk don't expect too much
     (i really do love math though and i hope i can convince you to
     like math ([like how i did][lm]!))
@@ -34,3 +34,17 @@ if only i could figure out how web frameworks work...
 [usaco-1086]: http://usaco.org/index.php?page=viewproblem2&cpid=1086
 [cmult]: https://betterexplained.com/articles/understanding-why-complex-multiplication-works/
 [lm]: https://www.youtube.com/live/5PcpBw5Hbwo?feature=share
+
+## my socials
+
+shameless plug haha (this is perhaps the only place i'll ever do this)
+
+*   [Twitter](https://twitter.com/rapiditycow): casual + art dumpster
+    (soon)
+*   [YouTube](https://www.youtube.com/@rapidcow): semi casual
+*   [Tumblr](https://www.tumblr.com/rapidcow): still art dumpster
+    except nobody sees it
+*   [GitHub](https://github.com/rapidcow): yay i code there
+    how'd you know? /j
+*   My emails: <eyzmeng@gmail.com> or <thegentlecow@gmail.com>
+*   Discord: rapidcow hash 3249 (i don't use Discord bwahahaha)
