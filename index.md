@@ -35,16 +35,13 @@ if only i could figure out how web frameworks work...
 [cmult]: https://betterexplained.com/articles/understanding-why-complex-multiplication-works/
 [lm]: https://www.youtube.com/live/5PcpBw5Hbwo?feature=share
 
-## my socials
+## my socials....?
 
-shameless plug haha (this is perhaps the only place i'll ever do this)
-
-*   [Twitter](https://twitter.com/rapiditycow): casual + art dumpster
-    (soon)
-*   [YouTube](https://www.youtube.com/@rapidcow): semi casual
+*   [Twitter](https://twitter.com/r4pidco3)
+*   [YouTube](https://www.youtube.com/@rapidcow): idk i will upload when i feel like it
 *   [Tumblr](https://www.tumblr.com/rapidcow): still art dumpster
     except nobody sees it
 *   [GitHub](https://github.com/rapidcow): yay i code there
     how'd you know? /j
-*   My emails: <eyzmeng@gmail.com> or <thegentlecow@gmail.com>
+*   Email: thegentlecow at gmail dot com (idk how that works but it's here)
 *   Discord: rapidcow hash 3249 (i don't use Discord bwahahaha)
