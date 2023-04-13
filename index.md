@@ -1,5 +1,10 @@
 ## my site
 
+**MORE INTERESTING STUFF IS COMING!!!!**
+please do expect me update this shabby Markdown-based website;
+i will add more organic drawings and all that stuff here when i got
+the motivation to :DD (check my twt that's where i'll put progress update!)
+
 hihi i'm [rapidcow][gh]! i also go by yizheng but it's fine if you just
 call me rapid :)
 
@@ -35,13 +40,16 @@ if only i could figure out how web frameworks work...
 [cmult]: https://betterexplained.com/articles/understanding-why-complex-multiplication-works/
 [lm]: https://www.youtube.com/live/5PcpBw5Hbwo?feature=share
 
-## my socials....?
+## my socials!
 
-*   [Twitter](https://twitter.com/r4pidco3)
+*   [Twitter](https://twitter.com/yizmeng)! (don't take it as hate if
+    i don't let you follow me; i'm still getting used to twitter)
 *   [YouTube](https://www.youtube.com/@rapidcow): idk i will upload when i feel like it
 *   [Tumblr](https://www.tumblr.com/rapidcow): still art dumpster
     except nobody sees it
 *   [GitHub](https://github.com/rapidcow): yay i code there
     how'd you know? /j
+*   [Reddit](https://www.reddit.com/u/rapidcow_): i still don't know but it helps to know that i have an account
+    there?
 *   Email: thegentlecow at gmail dot com (idk how that works but it's here)
 *   Discord: rapidcow hash 3249 (i don't use Discord bwahahaha)

@@ -1,3 +1,3 @@
 # rapidcow.github.io
 
-my website (yay.....)
+my website (yay!)
