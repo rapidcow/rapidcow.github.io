@@ -42,8 +42,7 @@ if only i could figure out how web frameworks work...
 
 ## my socials!
 
-*   [Twitter](https://twitter.com/yizmeng)! (don't take it as hate if
-    i don't let you follow me; i'm still getting used to twitter)
+*   ~~[Twitter](https://twitter.com/yizmeng)~~ [Mastodon](https://mstdn.social/@yzethan) (tentative)!
 *   [YouTube](https://www.youtube.com/@rapidcow): idk i will upload when i feel like it
 *   [Tumblr](https://www.tumblr.com/rapidcow): still art dumpster
     except nobody sees it

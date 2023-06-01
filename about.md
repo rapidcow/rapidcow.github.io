@@ -1,6 +1,9 @@
 # about me
 
-I'm Yizheng Meng!  A Chinese high school junior suffering from
+(this page will have more graphics i swear i will add them one day)
+
+I'm Yizheng (Ethan is fine too)!
+A Chinese high school junior suffering from
 perfectionism and extreme social ineptness (somewhat correlated
 to the fact that I am more fluent in English than in Chinese).
 I also go by the nickname/username "rapidcow", or simply rapid,
