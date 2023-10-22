@@ -1,14 +1,13 @@
 ## my site
 
-**MORE INTERESTING STUFF IS COMING!!!!**
-please do expect me update this shabby Markdown-based website;
-i will add more organic drawings and all that stuff here when i got
-the motivation to :DD (check my twt that's where i'll put progress update!)
+**this website will be changed soon.**
+for now though you can head over to [my personal website](https://yizz.me)
+or the [About](/about/) page here.
 
 hihi i'm [rapidcow][gh]! i also go by yizheng but it's fine if you just
 call me rapid :)
 
-i am a HS junior embarrassingly bad at managing my time and getting
+i am a HS senior embarrassingly bad at managing my time and getting
 stuff done
 
 i write alot of useless stuff as you will see here (soon) but thank you
@@ -50,5 +49,5 @@ if only i could figure out how web frameworks work...
     how'd you know? /j
 *   [Reddit](https://www.reddit.com/u/rapidcow_): i still don't know but it helps to know that i have an account
     there?
-*   Email: thegentlecow at gmail dot com (idk how that works but it's here)
+*   Email: [dev [at] rapidcow [dot] org](mailto:dev@rapidcow.org)!
 *   Discord: rapidcow hash 3249 (i don't use Discord bwahahaha)
