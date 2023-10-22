@@ -2,7 +2,7 @@
 
 **this website will be changed soon.**
 for now though you can head over to [my personal website](https://yizz.me)
-or the [About](/about/) page here.
+or the [About](/about) page here.
 
 hihi i'm [rapidcow][gh]! i also go by yizheng but it's fine if you just
 call me rapid :)
