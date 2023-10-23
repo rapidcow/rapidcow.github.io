@@ -1,3 +1,5 @@
+<head><title>rapidcow!</title></head>
+
 ## my site
 
 **this website will be changed soon.**
