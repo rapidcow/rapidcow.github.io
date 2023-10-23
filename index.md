@@ -1,5 +1,4 @@
 <head><title>rapidcow!</title></head>
-
 ## my site
 
 **this website will be changed soon.**
@@ -43,7 +42,9 @@ if only i could figure out how web frameworks work...
 
 ## my socials!
 
-*   ~~[Twitter](https://twitter.com/yizmeng)~~ [Mastodon](https://mstdn.social/@yzethan) (tentative)!
+*   ~~[Twitter](https://twitter.com/yizmeng)~~ Mastodon
+    (<a href="https://mstdn.social/@rapidnjun" rel="me">art</a>
+    and <a href="https://mstdn.social/@yizmeng" rel="me">everything else</a>
 *   [YouTube](https://www.youtube.com/@rapidcow): idk i will upload when i feel like it
 *   [Tumblr](https://www.tumblr.com/rapidcow): still art dumpster
     except nobody sees it
