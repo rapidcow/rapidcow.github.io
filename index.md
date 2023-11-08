@@ -1,9 +1,12 @@
-<head><title>rapidcow!</title></head>
 ## my site
 
 **this website will be changed soon.**
 for now though you can head over to [my personal website](https://yizz.me)
 or the [About](/about) page here.
+
+or read about my updates at Mastodon idk
+(i still care about this domain unlike whoever owns
+rapidcow.com and is blatantly desperate to sell it smh)
 
 hihi i'm [rapidcow][gh]! i also go by yizheng but it's fine if you just
 call me rapid :)
@@ -42,15 +45,13 @@ if only i could figure out how web frameworks work...
 
 ## my socials!
 
-*   ~~[Twitter](https://twitter.com/yizmeng)~~ Mastodon
-    (<a href="https://mstdn.social/@rapidnjun" rel="me">art</a>
-    and <a href="https://mstdn.social/@yizmeng" rel="me">everything else</a>
+*   E-mail: [dev [at] rapidcow [dot] org](mailto:dev@rapidcow.org)
+    (PLEASE stop contacting me about purchasing rapidcow.com,
+    i'm [TIRED OF SEEING IT][])
+*   [GitHub](https://github.com/rapidcow): yay i code there how'd you know? /j
+*   <a href="https://mstdn.social/@yizmeng" rel="me">Mastodon</a>
 *   [YouTube](https://www.youtube.com/@rapidcow): idk i will upload when i feel like it
 *   [Tumblr](https://www.tumblr.com/rapidcow): still art dumpster
     except nobody sees it
-*   [GitHub](https://github.com/rapidcow): yay i code there
-    how'd you know? /j
-*   [Reddit](https://www.reddit.com/u/rapidcow_): i still don't know but it helps to know that i have an account
-    there?
-*   Email: [dev [at] rapidcow [dot] org](mailto:dev@rapidcow.org)!
-*   Discord: rapidcow hash 3249 (i don't use Discord bwahahaha)
+
+[tired of seeing it]: https://youtu.be/WiGM7D2wZlI?t=3
