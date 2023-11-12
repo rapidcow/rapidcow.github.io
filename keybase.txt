@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rapidcow
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rapidcow.org
+  * I am rapidcow (https://keybase.io/rapidcow) on keybase.
+  * I have a public key ASB6ZCjkNDsFBY7wZ4nCk9Ih_aM-hoX6w1le8KMa83_yPQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207a6428e4343b05058ef06789c293d221fda33e8685fac3595ef0a31af37ff23d0a",
+      "host": "keybase.io",
+      "kid": "01207a6428e4343b05058ef06789c293d221fda33e8685fac3595ef0a31af37ff23d0a",
+      "uid": "d1f08b031580a47ba2f26048a6b45719",
+      "username": "rapidcow"
+    },
+    "merkle_root": {
+      "ctime": 1699799405,
+      "hash": "5fd2ecf4f9b0279fac5f97aaa1ad9fc37e26fb8d17db87da9376efad8ca6e83da21d59bf114fbabc9818fc99e3e05c4c5f3ab25500166365e64f4112c35aea6c",
+      "hash_meta": "e61cebce533245e85e96f13d115b766d55f3d194a2b8b23c6197cb5dd561c8bb",
+      "seqno": 25136632
+    },
+    "service": {
+      "entropy": "1aHUKLu5SLLeYAEeZx1GvBSO",
+      "hostname": "rapidcow.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.4"
+  },
+  "ctime": 1699799478,
+  "expire_in": 504576000,
+  "prev": "f4f0642b41985e879ca1ec8ae5aa46338c04370e7ac5f1d682ad72569088a728",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgemQo5DQ7BQWO8GeJwpPSIf2jPoaF+sNZXvCjGvN/8j0Kp3BheWxvYWTESpcCBMQg9PBkK0GYXoecoeyK5apGM4wENw56xfHWgq1yVpCIpyjEICfn2sDVEAvH0kt1bza/lo8mSk5cd67ZpTA6yUICVZGfAgHCo3NpZ8RACQyKIr8/lBiQkJBURk3L6UQLDtdjSY+bn4mtrBtyAS0WjAdY/1sUv8uBij1DK9UydTbCB+/H23AMjKp+iU5hBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFEKh5yAHlGeuXdJ+47eWjJANVM5lWs28SoxKsg1b0Ugo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rapidcow
+
+==================================================================
