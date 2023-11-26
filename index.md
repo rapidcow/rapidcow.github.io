@@ -64,12 +64,14 @@ this key** - so this is kind of a big deal
 
 ## how to reach me
 
-*   For development:
+*   For development/this website in general, e-mail:
     -   dev [at] rapidcow [dot] org, OR
     -   yizzy [at] rapidcow [dot] org / thegentlecow [at] gmail [dot] com
         (i am the sole developer after all)
+
     PSA: PLEASE stop contacting me about purchasing rapidcow.com,
     i'm [TIRED OF SEEING IT][]
+
 *   <a href="https://mstdn.social/@yizmeng" rel="me">Mastodon</a>
     (**LEGIT ANNOUNCEMENT ACCOUNT**)
 
