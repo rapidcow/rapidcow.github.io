@@ -23,6 +23,7 @@ if you decided to drop by \
 [gh]: https://github.com/rapidcow "yes i exist and i code"
 [SansPapyrus683]: https://sanspapyrus683.github.io/ "cool CP stuff there"
 
+
 ## what i *might* be adding...
 
 if only i could figure out how web frameworks work...
@@ -64,20 +65,12 @@ this key** - so this is kind of a big deal
 
 ## how to reach me
 
-*   For development/this website in general, e-mail:
-    -   dev [at] rapidcow [dot] org, OR
-    -   yizzy [at] rapidcow [dot] org / thegentlecow [at] gmail [dot] com
-        (i am the sole developer after all)
-
-    PSA: PLEASE stop contacting me about purchasing rapidcow.com,
-    i'm [TIRED OF SEEING IT][]
-
-*   <a href="https://mstdn.social/@yizmeng" rel="me">Mastodon</a>
-    (**LEGIT ANNOUNCEMENT ACCOUNT**)
-
+[My contacts](/contacts.html)
 
 ## linkies
 
+*   <a href="https://mstdn.social/@yizmeng" rel="me">Mastodon</a>:
+    **ANNOUNCEMENTS**
 *   [GitHub](https://github.com/rapidcow): yay i code there how'd you know? /j
 *   [YouTube](https://www.youtube.com/@rapidcow): also my homepage
     to all videos will be at <https://rapidcow.org/videos> just so u know
