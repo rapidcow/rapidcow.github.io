@@ -1,6 +1,6 @@
 ## my site
 
-**Update April 7**: [it's here!](http://www.rapidcow.com)
+**Update April 7**: [it's here!](http://www.rapidcow.org)
 i got it working! except... i haven't planned this far,
 so it looks very shabby and all 😅 but well i'll have to
 wait 'til I'm less busy with stuff (~~and when Microsoft
@@ -65,4 +65,4 @@ text it's boring i want to draaaaw :c)
 
 ---
 
-Ethan Meng &bullet; rapidcow, 2023--2024! ^v^
+Ethan Meng • rapidcow, 2023--2024! ^v^
