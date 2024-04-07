@@ -1,10 +1,13 @@
 # My contacts
 
-For development/anything about this website in general, e-mail:
+These all work:
 
--   dev [at] rapidcow.org, OR
--   yizzy [at] rapidcow.org / thegentlecow [at] gmail.com
-    (i am the sole developer after all)
+*   (literally anything)@rapidcow.org: i've used dev, yizzy, and ethan -
+    it doesn't matter i can receive them all anyways, but to show
+    you've actually gone to this page, try to use one of these please.
+    (you don't believe how many people emailed info@rapidcow.org as if
+    my personal website represents a company... ugh >:c)
+*   thegentlecow@gmail.com / eyzmeng@gmail.com (ye that's me too!)
 
 I only guarantee to respond to these if you follow these requirements:
 
@@ -28,7 +31,6 @@ clear for the final time.
 
 ---
 
-yizheng updated this at 2024-01-02, 01:57 PM (+08:00)
-
-(*yeah, I probably have to manually add this until I get a functional
-web framework around here.*)
+updated April 7th, 2024. \
+(given how fewer people are contacting me now,
+i feel like i can leave this out on my website)

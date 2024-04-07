@@ -1,82 +1,68 @@
 ## my site
 
-**this website will be migrated soon from github.io.**
-for now though you can head over to [my personal website](https://yizz.me)
-or the [About](/about.html) page here.
+**Update April 7**: [it's here!](http://www.rapidcow.com)
+i got it working! except... i haven't planned this far,
+so it looks very shabby and all 😅 but well i'll have to
+wait 'til I'm less busy with stuff (~~and when Microsoft
+decides to give me my notebooks back DXXX~~)
 
-or read about my updates at Mastodon idk
-(i still care about this domain unlike the owner of rapidcow.com
-throwing it in Dan.com and GoDaddy's hand smh)
+thank you to github for hosting in the past year :) but
+soon i'll take things into my own hands....
 
-hihi i'm [rapidcow][gh]! i also go by yizheng but it's fine if you just
-call me rapid :)
+---
 
-i am a HS senior embarrassingly bad at managing my time and getting
-stuff done
+hihi i'm rapidcow! i also go by yizheng/ethan but it's fine
+if you just call me rapid :)
+
+(why rapid and why cow? well that goes way back in time... but
+i will get to it one day! 😁)
 
 i write alot of useless stuff as you will see here (soon) but thank you
 if you decided to drop by \
 (idk it does sound cool if that did happen)
 
-(thanks to [SansPapyrus683][] for inspiring me to uh put up stuff here!!)
+(it's been almost 2 years but still thanks to [SansPapyrus683][] for
+inspiring me to put up stuff here!!)
 
-[gh]: https://github.com/rapidcow "yes i exist and i code"
 [SansPapyrus683]: https://sanspapyrus683.github.io/ "cool CP stuff there"
 
 
-## what i *might* be adding...
+## what i ~~*might*~~ **won't** be adding...
 
-if only i could figure out how web frameworks work...
+~~if only i could figure out how web frameworks work...~~
+screw math this ain't no place for that :D
 
-*   my own, less math-technical explanation of
-    [Swapity Swapity Swap][usaco-1014] and [Dance Mooves][usaco-1086]
-*   just competitive programming in general (i suck though go to
-    someone else's website please)
-*   notes about AMC and math in general idk don't expect too much
-    (i really do love math though and i hope i can convince you to
-    like math ([like how i did][lm]!))
-    -   complex numbers namely -- i've yet to see something talk about
-        the algebra of complex numbers connected back to geometry in
-        an accessible form (probably except articles like [this][cmult])
+there will be drawings! in rapidcow.org/art/XXX!
 
-[usaco-1014]: http://www.usaco.org/index.php?page=viewproblem2&cpid=1014
-[usaco-1086]: http://usaco.org/index.php?page=viewproblem2&cpid=1086
-[cmult]: https://betterexplained.com/articles/understanding-why-complex-multiplication-works/
-[lm]: https://www.youtube.com/live/5PcpBw5Hbwo?feature=share
+(还会有中文！and unprecedented levels of silliness!! so be thrilled!!!!)
 
 
 ## my PGP key
 
-might host this at <https://pgp.rapidcow.org/primary.asc>
-in the near future idk
-
-but for now you can try [Keybase](https://keybase.io/rapidcow)
-since i have uploaded it there!
-
-according to what they tell me you can do this
+i don't use it nearly as much, but well, it's here:
 
 ```
 curl https://keybase.io/rapidcow/pgp_keys.asc | gpg --import
 ```
 
-**all my future commits/releases/anything will be signed with
-this key** - so this is kind of a big deal
+you see there was a time when i thought rapidcow.org = coding
+website. now that that's not the case... well. at least it's there.
 
 
-## how to reach me
+## how to reach me (mostly to ppl trying to sell me rapidcow.com)
 
 [My contacts](/contacts.html)
 
-## linkies
+## ~~linkies~~
 
-*   <a href="https://mstdn.social/@yizmeng" rel="me">Mastodon</a>:
-    **ANNOUNCEMENTS**
-*   [GitHub](https://github.com/rapidcow): yay i code there how'd you know? /j
-*   [YouTube](https://www.youtube.com/@rapidcow): also my homepage
-    to all videos will be at <https://rapidcow.org/videos> just so u know
-*   [Tumblr](https://www.tumblr.com/rapidcow): art (mostly comic according to manu?)
-    -   Art will be at <https://yizz.me/art> just because :/
+none because i don't plan to be chronically online
+
+(ok but if you look up rapidcow you'll find my youtube and
+github right... i don't really want to link them here in plain
+text it's boring i want to draaaaw :c)
 
 [tired of seeing it]: https://youtu.be/WiGM7D2wZlI?t=3
 
-[^1]: unless you are a friend
+---
+
+Ethan Meng &bullet; rapidcow, 2023--2024! ^v^
