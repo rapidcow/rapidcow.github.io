@@ -1,7 +1,7 @@
-# about me
+## about me
 
-I'm Yizheng / Ethan!
-A silly Chinese boy who obsesses over tiny things!
+I'm Ethan / Yizheng!
+A silly Chinese boy who obsesses over way too many things
 
 I like fun and joy and hope this website helps with that :)
 There won't be boring school stuff here! No nerdy long-winded
@@ -14,4 +14,5 @@ And because I don't have time to write a better one
 
 and so that was about everything for now :3
 
-UNTIL NEXT TIME!!!
+UNTIL NEXT TIME!!! stay silly and be happy!!!! XDDDD
+(and don't forget... why you are here.......)
