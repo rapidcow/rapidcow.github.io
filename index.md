@@ -1,5 +1,15 @@
 ## my site
 
+**Update Jun 13**: if you can I want you to read about
+[how Microsoft destroyed my earliest diaries](/diary.html).
+I am enraged and plan to dedicate this entire GitHub pages
+site in protest of what Microsoft did.
+Please, if you want the pristine state of this website back in
+before 2024, clone this repo and revert it back to an older
+revision, then run it locally with Jekyll.
+I am not in the mood of keeping what was originally here
+when I finish writing that, so eh.
+
 **Update April 7**: [it's here!](http://www.rapidcow.org)
 i got it working! except... i haven't planned this far,
 so it looks very shabby and all 😅 but well i'll have to
