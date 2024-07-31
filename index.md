@@ -1,5 +1,19 @@
 ## my site
 
+**Update July 31:** I'm taking a break... expect this to
+go away one day (and i may regularly purge git commit
+history so that annoying archive bots that think my
+website source code is FOSS can go elsewhere)
+
+plz be patient with me and do not archive this page
+thank you....
+
+<!--
+
+NOTE: doing this on codeberg instead.
+this whole rapidcow.github.io repository
+would just be deleted then.
+
 **Update Jun 13**: if you can I want you to read about
 [how Microsoft destroyed my earliest diaries](/diary.html).
 I am enraged and plan to dedicate this entire GitHub pages
@@ -10,7 +24,9 @@ revision, then run it locally with Jekyll.
 I am not in the mood of keeping what was originally here
 when I finish writing that, so eh.
 
-**Update April 7**: [it's here!](http://www.rapidcow.org)
+-->
+
+**Update April 7**: [it's here!](https://www.rapidcow.org)
 i got it working! except... i haven't planned this far,
 so it looks very shabby and all 😅 but well i'll have to
 wait 'til I'm less busy with stuff (~~and when Microsoft
@@ -34,7 +50,7 @@ if you decided to drop by \
 (it's been almost 2 years but still thanks to [SansPapyrus683][] for
 inspiring me to put up stuff here!!)
 
-[SansPapyrus683]: https://sanspapyrus683.github.io/ "cool CP stuff there"
+[SansPapyrus683]: https://sanspapyrus683.github.io/ "cool CP (= competitive programming) stuff there"
 
 
 ## what i ~~*might*~~ **won't** be adding...
@@ -49,14 +65,21 @@ there will be drawings! in rapidcow.org/art/XXX!
 
 ## my PGP key
 
-i don't use it nearly as much, but well, it's here:
+keybase works:
 
 ```
 curl https://keybase.io/rapidcow/pgp_keys.asc | gpg --import
 ```
 
-you see there was a time when i thought rapidcow.org = coding
-website. now that that's not the case... well. at least it's there.
+but i forgot when i last updated it, eh...
+
+though i assure you i update the WKD more often :)
+
+```sh
+gpg --auto-key-locate clear,wkd --locate-keys dev [at] rapidcow.org
+# or
+gpg --auto-key-locate clear,wkd --locate-keys ethan [at] rapidcow.org
+```
 
 
 ## how to reach me (mostly to ppl trying to sell me rapidcow.com)
@@ -75,4 +98,4 @@ text it's boring i want to draaaaw :c)
 
 ---
 
-Ethan Meng • rapidcow, 2023--2024! ^v^
+Copyright © Ethan Meng • rapidcow, 2023--2024! ^v^

@@ -2,10 +2,10 @@
 
 These all work:
 
-*   (literally anything)@rapidcow.org: i've used dev, yizzy, and ethan -
+*   (literally anything)@rapidcow.org: i've used dev, yizzy, ethan -
     it doesn't matter i can receive them all anyways, but to show
     you've actually gone to this page, try to use one of these please.
-    (you don't believe how many people emailed info@rapidcow.org as if
+    (you won't believe how many people emailed info@rapidcow.org as if
     my personal website represents a company... ugh >:c)
 *   thegentlecow@gmail.com / eyzmeng@gmail.com (ye that's me too!)
 
@@ -31,6 +31,5 @@ clear for the final time.
 
 ---
 
-updated April 7th, 2024. \
-(given how fewer people are contacting me now,
-i feel like i can leave this out on my website)
+updated July 31st, 2024. \
+i am happy to say that no one is trying to sell me rapidcow.com anymore :)
