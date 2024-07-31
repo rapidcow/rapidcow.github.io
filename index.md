@@ -41,11 +41,11 @@ hihi i'm rapidcow! i also go by yizheng/ethan but it's fine
 if you just call me rapid :)
 
 (why rapid and why cow? well that goes way back in time... but
-i will get to it one day! 😁)
+i hope to get to it one day! 😁)
 
-i write alot of useless stuff as you will see here (soon) but thank you
-if you decided to drop by \
-(idk it does sound cool if that did happen)
+i write alot of useless stuff but few of them are online
+(and of the ones that are online, few are easily accessed) \
+organization is harder than you think, yeee.... ;n;
 
 (it's been almost 2 years but still thanks to [SansPapyrus683][] for
 inspiring me to put up stuff here!!)
@@ -60,7 +60,10 @@ screw math this ain't no place for that :D
 
 there will be drawings! in rapidcow.org/art/XXX!
 
-(还会有中文！and unprecedented levels of silliness!! so be thrilled!!!!)
+(还会有中文！and unprecedented levels of silliness!! so be thrilled!!!!) \
+(but don't be too thrilled because it's the internet, duh,
+and i ain't putting squeezing EVERY last drop of my creation into
+the web. >_> plus it takes tiiiime and i don't got all day here)
 
 
 ## my PGP key
@@ -93,8 +96,6 @@ none because i don't plan to be chronically online
 (ok but if you look up rapidcow you'll find my youtube and
 github right... i don't really want to link them here in plain
 text it's boring i want to draaaaw :c)
-
-[tired of seeing it]: https://youtu.be/WiGM7D2wZlI?t=3
 
 ---
 
